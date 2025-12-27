@@ -1,0 +1,7 @@
+{
+  "name": "L'Elégance Luxe & Glow",
+  "description": "A high-end fashion and beauty e-commerce platform featuring AI-powered size recommendations, shade matching, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
